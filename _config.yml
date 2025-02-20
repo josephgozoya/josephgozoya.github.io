@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/pofile.jpg"
   bio    : "Joseph Gozoya is a PhD candidate in Economics at the University of Pretoria and a Research Assistant at UNU-WIDER, where he works with the National Treasury – Secure Data Facility. Through his work, Joseph aims to provide data-driven insights that inform policy solutions for economic inclusion and sustainable development."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://josephgozoya.github.io/"
+    #- label: "Website"
+    # icon: "fas fa-fw fa-link"
+     # url: "https://josephgozoya.github.io/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/josephgozoya/"
