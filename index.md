@@ -5,3 +5,8 @@
 layout: splash
 author_profile: true
 ---
+My research interest are in the area of **development economics**.
+
+- poverty and inequality
+- migration
+- climate change
