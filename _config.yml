@@ -48,6 +48,14 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+exclude:
+  - _posts/welcome-to-jekyll.md
+  - _posts/post-link.md
+  - _posts/quote.md
+  - _posts/notice.md
+  - _posts/chat.md
+  - _posts/standard.md
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
