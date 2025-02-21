@@ -1,10 +1,18 @@
 main:
-   - title: "About"
+  - title: "About"
     url: /about/
   - title: "Research"
     url: /research/
   - title: "SA-TIED"
     url: /work/
-  - title: "Presentations"
-    url: /presentations/
+  - title: "Other"
+    url: /other/
+    children:
+      - title: "Presentations"
+        url: /other/presentations/
+      - title: "Datasets"
+        url: /other/datasets/
+      - title: "Useful links"
+        url: /other/useful links/
+
  
