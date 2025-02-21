@@ -1,6 +1,6 @@
 ---
 permalink: /work/
-title: "Work"
+title: "SA-TIED"
 author_profile: true
 ---
 <!-- Google tag (gtag.js) -->
