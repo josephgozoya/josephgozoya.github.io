@@ -7,10 +7,3 @@ main:
     url: /work/
   - title: "Other"
     url: /other/
-    children:
-      - title: "Presentations"
-        url: /other/presentations/
-      - title: "Datasets"
-        url: /other/datasets/
-      - title: "Useful Links"
-        url: /other/useful_links/
