@@ -1,9 +1,10 @@
 main:
+   - title: "About"
+    url: /about/
   - title: "Research"
     url: /research/
   - title: "SA-TIED"
     url: /work/
   - title: "Presentations"
     url: /presentations/
-  - title: "About"
-    url: /about/
+ 
