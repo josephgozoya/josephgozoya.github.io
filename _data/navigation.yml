@@ -6,13 +6,11 @@ main:
   - title: "SA-TIED"
     url: /work/
   - title: "Other"
-    url: "#"
+    url: /other/
     children:
       - title: "Presentations"
         url: /other/presentations/
       - title: "Datasets"
         url: /other/datasets/
-      - title: "Useful links"
+      - title: "Useful Links"
         url: /other/useful_links/
-
- 
