@@ -1,5 +1,5 @@
 ---
-permalink: /presentations/
+permalink: other/presentations/
 title: "Presentations"
 ---
 <!-- Google tag (gtag.js) -->
