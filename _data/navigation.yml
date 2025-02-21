@@ -6,7 +6,7 @@ main:
   - title: "SA-TIED"
     url: /work/
   - title: "Other"
-    url: /other/
+    url: "#"
     children:
       - title: "Presentations"
         url: /other/presentations/
