@@ -47,18 +47,6 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:josephgozoya@gmail.com"
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/yourhandle"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/josephgozoya"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/yourhandle"
-
 defaults:
   # _posts
   - scope:
