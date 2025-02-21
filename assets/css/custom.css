@@ -3,6 +3,7 @@
   position: relative;
 }
 
+/* Style dropdown arrow */
 .dropdown-arrow {
   margin-left: 5px;
   font-size: 12px;
@@ -21,11 +22,6 @@
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
 
-/* Show dropdown on hover */
-.has-dropdown:hover .dropdown {
-  display: block;
-}
-
 /* Style dropdown links */
 .dropdown li {
   list-style: none;
@@ -40,4 +36,9 @@
 
 .dropdown a:hover {
   background: #444;
+}
+
+/* Add active class for dropdown visibility */
+.dropdown.active {
+  display: block;
 }
