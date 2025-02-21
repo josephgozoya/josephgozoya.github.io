@@ -67,6 +67,10 @@ defaults:
       layout: single
       author_profile: true
 
+footer:
+  links:
+
+
 category_archive:
   type: liquid
   path: /categories/
