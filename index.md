@@ -7,7 +7,7 @@ author_profile: true
 header:
   overlay_image: /assets/images/image.png
   overlay_filter: 0.5  # Adjust transparency (0 = no filter, 1 = fully dark)
-  caption: "THE EXPERIMENT"
+  caption: "DEVELOPMENT"
   actions:
     - label: "Learn More"
       url: "/about/"
