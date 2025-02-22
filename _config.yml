@@ -104,6 +104,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header:
+        overlay_image: /assets/images/image.png  # Use your uploaded image path
+        overlay_filter: 0.5  # Adjust transparency (0 = fully transparent, 1 = fully opaque)
+        caption: "JG"
+
 
 category_archive:
   type: liquid
