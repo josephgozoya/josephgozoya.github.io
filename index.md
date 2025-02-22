@@ -4,6 +4,15 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: true
+layout: splash
+permalink: /
+header:
+  overlay_image: /assets/images/image.png
+  overlay_filter: 0.5  # Adjust transparency (0 = no filter, 1 = fully dark)
+  caption: "JG"
+  actions:
+    - label: "Learn More"
+      url: "/about/"
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-CCD8WD25BZ"></script>
