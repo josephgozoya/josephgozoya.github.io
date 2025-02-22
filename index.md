@@ -1,6 +1,9 @@
-title: "THE EXPERIMENT"
-layout: splash
-permalink: /
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+author_profile: true
 header:
   overlay_image: /assets/images/image.png
   overlay_filter: 0.5  # Adjust transparency (0 = no filter, 1 = fully dark)
