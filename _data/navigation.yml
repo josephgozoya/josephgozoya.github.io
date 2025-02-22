@@ -6,10 +6,4 @@ main:
   - title: "SA-TIED"
     url: https://sa-tied.wider.unu.edu/data
   - title: "Other"
-    sublinks:
-      - title: Presentations
-        url: /tags/
-      - title: Datasets
-        url: /categories/
-      - title: "useful links"
-        url: /useful_links/
+    url: /presentations/
