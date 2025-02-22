@@ -8,8 +8,14 @@ main:
   - title: "Other"
     sublinks:
       - title: Presentations
-        url: /presentations/
+        url: /tags/
       - title: Datasets
-        url: /datasets/
+        url: /categories/
       - title: "useful links"
         url: /useful_links/
+- title: By Tag
+        url: /tags/
+      - title: By Category
+        url: /categories/
+      - title: By Year
+        url: /year-archive/
