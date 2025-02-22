@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Welcome
+title: Joseph Gozoya
 email: josephgozoya@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Advancing economic development and policy research through spatial analysis, offering data-driven insights on inequality and poverty.
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Joseph Gozoya"
   avatar : "/assets/images/pofile.jpg"
-  bio    : "Joseph Gozoya is a Research Assistant at United Nations World Institute for Development Economics Research (UNU-WIDER) and a PhD candidate in Economics at the University of Pretoria."
+  bio    : "**is** a Research Assistant at United Nations World Institute for Development Economics Research (UNU-WIDER) and a PhD candidate in Economics at the University of Pretoria."
   links:
     #- label: "Website"
     # icon: "fas fa-fw fa-link"
