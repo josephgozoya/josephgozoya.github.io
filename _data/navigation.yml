@@ -5,7 +5,7 @@ main:
     url: /research/
   - title: "SA-TIED"
     url: /work/
-   - title: Other
+  - title: "About"
     sublinks:
       - title: Presentations
         url: /presentations/
