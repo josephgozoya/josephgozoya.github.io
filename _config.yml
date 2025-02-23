@@ -110,6 +110,10 @@ defaults:
         overlay_image: /assets/images/image.png  # Use your uploaded image path
         overlay_filter: 0.5  # Adjust transparency (0 = fully transparent, 1 = fully opaque)
         caption: ""
+        
+search_provider: lunr
+lunr:
+  search_within_pages: true
 
 
 category_archive:
