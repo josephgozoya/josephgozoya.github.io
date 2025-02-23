@@ -1,23 +1,9 @@
-favicon: "/assets/imagesd/jg.png"
-meta_image: "/assets/imagesd/jg.png"
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+favicon: "/assets/images/favicon.ico"
+meta_image: "/assets/images/jg.png"
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Joseph Gozoya
 email: josephgozoya@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Advancing economic development and policy research through spatial analysis, offering data-driven insights on inequality and poverty.
 twitter_username: username
 github_username: username
@@ -27,28 +13,17 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
+
+# Output settings
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: 
 
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -57,24 +32,20 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Author info
 author:
   name   : "Joseph Gozoya"
-  avatar : "/assets/images/pofile.jpg"
+  avatar : "/assets/images/profile.jpg"
   bio    : "**is** a Research Assistant at United Nations World Institute for Development Economics Research (UNU-WIDER) and a PhD candidate in Economics at the University of Pretoria."
   links:
-    #- label: "Website"
-    # icon: "fas fa-fw fa-link"
-     # url: "https://josephgozoya.github.io/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/josephgozoya/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/josephgozoya"
-  #  - label: "Instagram"
-  #    icon: "fab fa-fw fa-instagram"
-  #    url: "https://instagram.com/"
 
+# Footer Links
 footer:
   links:
     - label: "Twitter"
@@ -87,8 +58,8 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+# Page Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -99,7 +70,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
   - scope:
       path: "_pages"
       type: pages
@@ -107,11 +77,11 @@ defaults:
       layout: single
       author_profile: true
       header:
-        overlay_image: /assets/images/image.png  # Use your uploaded image path
-        overlay_filter: 0.5  # Adjust transparency (0 = fully transparent, 1 = fully opaque)
+        overlay_image: /assets/images/image.png
+        overlay_filter: 0.5
         caption: "JG"
 
-
+# Archives
 category_archive:
   type: liquid
   path: /categories/
