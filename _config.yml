@@ -18,7 +18,7 @@ title: Joseph Gozoya
 email: josephgozoya@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Advancing economic development and policy research through spatial analysis, offering data-driven insights on inequality and poverty.
-favicon: "/favicon.ico" # Or .png or .svg
+favicon: "assets/images/favicon.ico" # Or .png or .svg
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
