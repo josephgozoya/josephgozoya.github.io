@@ -109,7 +109,7 @@ defaults:
       header:
         overlay_image: /assets/images/image.png  # Use your uploaded image path
         overlay_filter: 0.5  # Adjust transparency (0 = fully transparent, 1 = fully opaque)
-        caption: "JG"
+        caption: ""
 
 
 category_archive:
