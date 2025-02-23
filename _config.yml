@@ -62,18 +62,12 @@ author:
   avatar : "/assets/images/pofile.jpg"
   bio    : "**is** a Research Assistant at United Nations World Institute for Development Economics Research (UNU-WIDER) and a PhD candidate in Economics at the University of Pretoria."
   links:
-    #- label: "Website"
-    # icon: "fas fa-fw fa-link"
-     # url: "https://josephgozoya.github.io/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/josephgozoya/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/josephgozoya"
-  #  - label: "Instagram"
-  #    icon: "fab fa-fw fa-instagram"
-  #    url: "https://instagram.com/"
 
 footer:
   links:
