@@ -10,11 +10,6 @@ header:
     - label: "Learn More"
       url: "/about/"
 ---
-<!-- Add the favicon link here -->
-<head>
-  <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico" type="image/x-icon">
-</head>
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-CCD8WD25BZ"></script>
 <script>
