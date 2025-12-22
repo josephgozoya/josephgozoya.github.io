@@ -31,13 +31,17 @@ I am an economist dedicated to addressing economic challenges through high-quali
 * **Big Data Analytics:** Managing and auditing millions of records within the **SA-TIED** administrative tax dataset to support evidence-based policy.
 
 ---
-## Recent Posts
-{% for post in site.posts limit:5 %}
-  <article class="archive__item">
-    <h3 class="archive__item-title">
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </h3>
-    <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {{ post.date | date: "%B %d, %Y" }}</p>
-    <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
-  </article>
-{% endfor %}
+## Recent Insights
+{% if site.posts.size > 0 %}
+  {% for post in site.posts limit:5 %}
+    <article class="archive__item" style="margin-bottom: 20px;">
+      <h3 class="archive__item-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h3>
+      <p style="font-size: 0.8em; color: #666;">{{ post.date | date: "%B %d, %Y" }}</p>
+      <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+    </article>
+  {% endfor %}
+{% else %}
+  <p>No posts found. Please check your _posts folder naming and file dates.</p>
+{% endif %}
