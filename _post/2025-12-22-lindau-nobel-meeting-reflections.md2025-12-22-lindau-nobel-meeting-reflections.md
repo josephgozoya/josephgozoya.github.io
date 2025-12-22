@@ -1,7 +1,8 @@
-
 ---
-title: "Reflections from the 8th Lindau Nobel Meeting: Future of economics and Causal Inference"
-excerpt: "Engaging with Nobel Laureates Jean Tirole, Guido Imbens, Joshua Angrist  and Simon Johnson on the future economics."
+title: "Reflections from the 8th Lindau Nobel Meeting: Future of Economics and Causal Inference"
+excerpt: "Engaging with Nobel Laureates Jean Tirole, Guido Imbens, and Simon Johnson."
+layout: single
+author_profile: true
 categories:
   - Nobel
   - Conferences
@@ -15,14 +16,14 @@ header:
   caption: "Attending the 8th Lindau Nobel Meeting in Economic Sciences."
 ---
 
-It was a profound honor to be selected as one of 300 young scientists to attend the **8th Lindau Nobel Meeting** in Germany. This gathering provided a unique platform to discuss the most pressing issues in economics with the field's most distinguished minds.
+[cite_start]It was a profound honor to be selected as an attendee of the **8th Lindau Nobel Meeting** in Germany, placing in the top 1% of young scientists globally[cite: 14]. [cite_start]This gathering provided a unique platform to discuss the most pressing issues in economics, such as **inequality** and **causal inference**, with the field's most distinguished minds[cite: 14].
 
 ### Engaging with the Laureates
-The discussions on **inequality** and **causal inference** were particularly impactful, featuring insights from:
-* **Jean Tirole:** We explored the complexities of market power and its implications for economic disparity.
-* **Guido Imbens & Simon Johnson:** Our dialogues centered on the role of AI in shapingresearch and global inequality—a theme that aligns closely with my own research.
+The discussions were particularly impactful, featuring insights from:
+* **Jean Tirole:** Exploring market power and its implications for economic disparity.
+* [cite_start]**Guido Imbens & Simon Johnson:** Discussing the role of AI in shaping research and global inequality—themes that align with my focus on poverty reduction and economic inequality[cite: 7].
 
 ### Bridging Theory and Data
-As an economist specializing in **administrative big data**, these conversations reinforced the importance of rigorous causal inference when analyzing large-scale datasets like the **SA-TIED** tax records. My goal remains to provide data-driven insights that inform policy solutions for economic inclusion.
+[cite_start]As an economist specializing in **administrative big data**, these conversations reinforced the importance of rigorous causal inference when analyzing large-scale datasets like the **SA-TIED** tax records[cite: 15]. [cite_start]My work involves managing millions of records to enable high-quality empirical work for international researchers[cite: 15].
 
-This experience has significantly sharpened my approach to my PhD research at the **University of Pretoria** , as I continue to investigate worker vulnerability and labor market resilience.
+[cite_start]This experience has significantly sharpened my approach to my PhD research at the **University of Pretoria**, where I continue to investigate worker vulnerability and labor market resilience[cite: 18, 52].
