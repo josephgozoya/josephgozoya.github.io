@@ -27,7 +27,7 @@ header:
 I am an economist dedicated to addressing economic challenges through high-quality empirical research. My work leverages administrative big data to provide insights into development economics, specifically focusing on:
 
 * **Poverty & Inequality:** Understanding and designing data-driven strategies to reduce economic disparities.
-* **Labor Markets:** Investigating worker vulnerability and sectoral resilience, particularly in the context of climate change.
+* **Labor Markets:** Investigating economic vulnerability and sectoral resilience, particularly in the context of climate change and energy disruptions.
 * **Big Data Analytics:** Managing and auditing millions of records within the **SA-TIED** administrative tax dataset to support evidence-based policy.
 
 ---
