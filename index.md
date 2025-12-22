@@ -24,11 +24,11 @@ header:
 
 ## Bridging Data & Policy for Economic Inclusion
 
-[cite_start]I am an economist dedicated to addressing economic challenges through high-quality empirical research[cite: 5, 7]. [cite_start]My work leverages administrative big data to provide insights into development economics[cite: 5, 6], specifically focusing on:
+I am an economist dedicated to addressing economic challenges through high-quality empirical research. My work leverages administrative big data to provide insights into development economics, specifically focusing on:
 
-* [cite_start]**Poverty & Inequality:** Understanding and designing data-driven strategies to reduce economic disparities[cite: 7].
-* [cite_start]**Labor Markets:** Investigating worker vulnerability and sectoral resilience, particularly in the context of climate change[cite: 6, 52].
-* [cite_start]**Big Data Analytics:** Managing and auditing millions of records within the **SA-TIED** administrative tax dataset to support evidence-based policy.
+* **Poverty & Inequality:** Understanding and designing data-driven strategies to reduce economic disparities.
+* **Labor Markets:** Investigating worker vulnerability and sectoral resilience, particularly in the context of climate change.
+* **Big Data Analytics:** Managing and auditing millions of records within the **SA-TIED** administrative tax dataset to support evidence-based policy.
 
 ---
 
