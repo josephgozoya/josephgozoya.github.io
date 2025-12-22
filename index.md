@@ -27,5 +27,3 @@ I am an economist  dedicated to addressing economic challenges through high-qual
 * **Labor Markets:** Investigating worker vulnerability and sectoral resilience, particularly in the context of climate change.
 * **Big Data Analytics:** Managing and auditing millions of records within the **SA-TIED** administrative tax dataset to support evidence-based policy.
 
-
-### Recent Working Paper
