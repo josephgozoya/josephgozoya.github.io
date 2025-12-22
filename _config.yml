@@ -33,10 +33,17 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# Add this back, but ensure _posts is NOT in this list
 include:
   - _pages
-  - _posts
+  - .htaccess
+  - README.md
 
+# Ensure your collections are defined if you use them
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:title/
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
