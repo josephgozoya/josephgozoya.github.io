@@ -2,6 +2,8 @@
 layout: home
 author_profile: true
 entries_layout: list # This will list your posts in a professional list format
+pagination:
+  enabled: true
 header:
   overlay_image: /assets/images/image.png
   overlay_filter: 0.5
