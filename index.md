@@ -32,11 +32,3 @@ I am an economist dedicated to addressing economic challenges through high-quali
 
 ---
 
-
-## Recent Research & Insights
-{% for post in site.posts limit:5 %}
-  <article class="archive__item">
-    <h2 class="archive__item-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    <p class="archive__item-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
-  </article>
-{% endfor %}
