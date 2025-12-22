@@ -1,27 +1,31 @@
 ---
-# Your existing YAML front matter
 layout: home
 author_profile: true
 header:
   overlay_image: /assets/images/image.png
   overlay_filter: 0.5
-  caption: 
   actions:
-    - label: "Learn More"
+    - label: "View Research"
       url: "/about/"
+    - label: "Download CV"
+      url: "https://drive.google.com/file/d/1-usu1GNkJpZRoTYnQOJKcp-fLh-WavZy/view"
 ---
-<!-- Google tag (gtag.js) -->
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-CCD8WD25BZ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-CCD8WD25BZ');
 </script>
 
-My research interest are in the area of **development economics**.
+## Bridging Data & Policy for Economic Inclusion
 
-- poverty and inequality
-- migration
-- climate change
+I am an economist  dedicated to addressing economic challenges through high-quality empirical research. My work leverages administrative big data to provide insights into development economics, specifically focusing on:
+
+* **Poverty & Inequality:** Designing data-driven strategies to reduce economic disparities.
+* **Labor Markets:** Investigating worker vulnerability and sectoral resilience, particularly in the context of climate change.
+* **Big Data Analytics:** Managing and auditing millions of records within the **SA-TIED** administrative tax dataset to support evidence-based policy.
+
+
+### Recent Working Paper
