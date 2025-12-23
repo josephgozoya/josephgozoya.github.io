@@ -1,5 +1,6 @@
 ---
 layout: home
+title: "Joseph Gozoya"
 author_profile: true
 entries_layout: list
 pagination:
