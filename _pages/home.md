@@ -1,5 +1,5 @@
 ---
-title: "JG"
+title: 
 layout: splash
 header:
   overlay_image: /assets/images/image.png
