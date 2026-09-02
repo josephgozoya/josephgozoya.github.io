@@ -8,11 +8,9 @@ toc_label: "On this page"
 toc_sticky: true
 ---
 
-<p class="lede">I am an economist and final-year PhD candidate at the University of Pretoria, working on how environmental pressure, employment structure and migration shape economic opportunity in sub-Saharan Africa.</p>
+<p class="lede">I am an economist and PhD candidate at the University of Pretoria. I work on how environmental pressure, employment structure and migration shape economic opportunity in sub-Saharan Africa.</p>
 
-I grew up in Zimbabwe and taught economics there before moving into research in South Africa. That route shapes how I work: I care less about elegant models than about whether a finding survives contact with the data, and whether anyone can act on it.
-
-Most of my time is spent inside restricted administrative datasets: payroll, firm and tax records held by revenue authorities. It is slow, unglamorous work, and it is also where the answers are. Alongside my own research I build the cleaning and linkage infrastructure that other researchers use, and I have spent several years teaching people how to handle data properly.
+Most of my time is spent on getting insights from large datasets, such as administrative data and survey data (QLFS, LSMS, Census). Alongside my own research I build the cleaning documentation that other researchers use.
 
 ## Education
 
@@ -23,7 +21,7 @@ Most of my time is spent inside restricted administrative datasets: payroll, fir
       <div class="fact__what">PhD in Economics
         <span class="fact__where">University of Pretoria</span>
       </div>
-      <p>Three-paper dissertation on employers, worker mobility and earnings in the South African labour market, using matched employer–employee administrative data.</p>
+      <p>Climate change, worker mobility and earnings in the South African labour market.</p>
     </div>
   </div>
   <div class="fact">
@@ -32,7 +30,7 @@ Most of my time is spent inside restricted administrative datasets: payroll, fir
       <div class="fact__what">MCom in Economics, with distinction
         <span class="fact__where">University of Pretoria</span>
       </div>
-      <p>Mini-dissertation on climate change, agriculture and food security in sub-Saharan Africa. Coursework included computable general equilibrium modelling.</p>
+      <p>Climate change, agriculture and food security in sub-Saharan Africa. Coursework included Advanced Econometrics and computable general equilibrium modelling.</p>
     </div>
   </div>
   <div class="fact">
@@ -41,13 +39,13 @@ Most of my time is spent inside restricted administrative datasets: payroll, fir
       <div class="fact__what">BCom Honours in Econometrics
         <span class="fact__where">University of Pretoria</span>
       </div>
-      <p>Research essay on climate change, conflict and forced migration in the Southern African Development Community, passed with distinction.</p>
+      <p>Research essay on climate change, conflict and forced migration in the Southern African Development Community.</p>
     </div>
   </div>
   <div class="fact">
     <div class="fact__when">2019</div>
     <div>
-      <div class="fact__what">BCom Economics Honours, upper second class
+      <div class="fact__what">BCom Economics Honours
         <span class="fact__where">Midlands State University, Zimbabwe</span>
       </div>
     </div>
@@ -61,7 +59,7 @@ Most of my time is spent inside restricted administrative datasets: payroll, fir
     <div class="fact__when">2026</div>
     <div>
       <div class="fact__what">UNU-WIDER Visiting PhD Fellowship
-        <span class="fact__where">One of seven doctoral students selected globally</span>
+        <span class="fact__where">Doctoral students in development economics research</span>
       </div>
     </div>
   </div>

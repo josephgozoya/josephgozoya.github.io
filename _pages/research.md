@@ -8,7 +8,7 @@ toc_label: "On this page"
 toc_sticky: true
 ---
 
-<p class="lede">My research sits where environmental pressure, the labour market, and human movement meet. The connecting question is a distributional one: when an economy is hit by a shock (a drought, a power crisis, a policy change), who absorbs the cost, and why them?</p>
+<p class="lede">My research sits where environmental pressure, the labour market, and human movement meet. The connecting question is a distributional one: when an economy is hit by a shock (a drought, <a href="https://sites.google.com/view/iimelda/current-projects">a power crisis</a>, a policy change), who absorbs the cost, and why them?</p>
 
 Answering that well needs data that can follow the same people and the same firms over time. Most of my work is built on large administrative records, complemented by household surveys and geospatial data where the question reaches beyond a single country.
 
