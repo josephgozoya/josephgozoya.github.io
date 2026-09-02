@@ -1,53 +1,61 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Joseph Gozoya | Economist</title>
-    <meta name="description" content="Joseph Gozoya is an Economist specialising in development economics (SA-TIED), Econometrics, and Labor Markets. PhD Candidate at the University of Pretoria.">
-    <meta name="author" content="Joseph Gozoya">
-    <meta name="keywords" content="Joseph Gozoya, UNU-WIDER, SA-TIED, Economist, PhD Fellow, Administrative Data, Big Data, South Africa, Econometrics, Labor Markets, Inequality">
-    <meta name="robots" content="index, follow">
+{% assign locale = include.locale | default: site.locale %}
+<meta charset="utf-8">
 
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://josephgozoya.github.io/">
-    <meta property="og:title" content="Joseph Gozoya | Economist">
-    <meta property="og:description" content="Economist and PhD candidate specialising in development economics">
-    <meta property="og:image" content="https://josephgozoya.github.io/assets/images/favicon.png">
+{% include seo.html locale=locale %}
 
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Joseph Gozoya | Economist">
-    <meta name="twitter:description" content="Economist specialising in high-quality empirical work using large-scale administrative data for policy-relevant research.">
+{% unless site.atom_feed.hide %}
+  <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+{% endunless %}
 
-    <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
-    <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
-    <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="Joseph Gozoya">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#1d4ed8">
 
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/(^|\s)no-js(\s|$)/g, '$1') + ' js ';
+</script>
 
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "Joseph Gozoya",
-      "jobTitle": "Economist",
-      "url": "https://josephgozoya.github.io/",
-      "image": "https://josephgozoya.github.io/assets/images/favicon.png",
-      "memberOf": [
-        {
-          "@type": "Organization",
-          "name": "UNU-WIDER"
-        },
-        {
-          "@type": "Organization",
-          "name": "SA-TIED"
-        }
-      ],
-      "alumniOf": {
-        "@type": "CollegeOrUniversity",
-        "name": "University of Pretoria"
-      },
-      "description": "Experienced in processing large adminintration data and supporting policy research in Sub-Saharan Africa.",
-      "knowsAbout": ["Econometrics", "Administrative Big Data", "SQL", "Stata", "R", "Labor Markets", "Climate Change"]
-    }
-    </script>
-</head>
+<link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
+<link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/assets/images/favicon.png' | relative_url }}">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Joseph Gozoya",
+  "givenName": "Joseph",
+  "familyName": "Gozoya",
+  "jobTitle": "Economist",
+  "url": "{{ site.url }}/",
+  "image": "{{ site.url }}/assets/images/josephgozoya.jpg",
+  "email": "mailto:josephgozoya@gmail.com",
+  "sameAs": [
+    "https://www.linkedin.com/in/josephgozoya/",
+    "https://github.com/josephgozoya"
+  ],
+  "affiliation": { "@type": "CollegeOrUniversity", "name": "University of Pretoria" },
+  "address": { "@type": "PostalAddress", "addressLocality": "Pretoria", "addressCountry": "ZA" },
+  "description": "Economist and PhD candidate researching environmental economics, jobs and inequality, and migration in sub-Saharan Africa using large-scale administrative data.",
+  "knowsAbout": ["Environmental Economics", "Labour Economics", "Inequality", "Migration", "Development Economics", "Econometrics", "Administrative Data", "Causal Inference"]
+}
+</script>
+{% endif %}
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CCD8WD25BZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-CCD8WD25BZ');
+</script>
