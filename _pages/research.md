@@ -1,14 +1,14 @@
 ---
 permalink: /research/
 title: "Research"
-excerpt: "Environmental economics, jobs and inequality, and migration — studied with large-scale administrative and survey data from sub-Saharan Africa."
+excerpt: "Environmental economics, jobs and inequality, and migration, studied with large-scale administrative and survey data from sub-Saharan Africa."
 author_profile: true
 toc: true
 toc_label: "On this page"
 toc_sticky: true
 ---
 
-<p class="lede">My research sits where environmental pressure, the labour market, and human movement meet. The connecting question is a distributional one: when an economy is hit by a shock — a drought, a power crisis, a policy change — who absorbs the cost, and why them?</p>
+<p class="lede">My research sits where environmental pressure, the labour market, and human movement meet. The connecting question is a distributional one: when an economy is hit by a shock (a drought, a power crisis, a policy change), who absorbs the cost, and why them?</p>
 
 Answering that well needs data that can follow the same people and the same firms over time. Most of my work is built on large administrative records, complemented by household surveys and geospatial data where the question reaches beyond a single country.
 
@@ -24,9 +24,9 @@ The strands I work on:
 
 ## Jobs and inequality
 
-Earnings inequality is usually described in terms of workers — their schooling, experience and skills. A large part of it is actually about **employers**: which firm you work for, and whether you can move between firms.
+Earnings inequality is usually described in terms of workers: their schooling, experience and skills. A large part of it is actually about **employers**: which firm you work for, and whether you can move between firms.
 
-That framing matters for policy, because it changes what you would do about inequality. If pay gaps are largely about where people work rather than what they can do, then job quality, firm dynamism and labour market mobility become the levers — not training alone.
+That framing matters for policy, because it changes what you would do about inequality. If pay gaps are largely about where people work rather than what they can do, then job quality, firm dynamism and labour market mobility become the levers, not training alone.
 
 My work here looks at how job quality is distributed across employers, how mobility between firms shapes earnings over a career, and what happens to that mobility when an economy stops growing. A practical spin-off is measurement: administrative payroll records can be used to build indicators of how many jobs an economy creates, where those jobs sit on the national quality ladder, and whether workers are able to climb it. Any country whose revenue authority holds linked payroll data can construct them.
 
@@ -34,7 +34,7 @@ My work here looks at how job quality is distributed across employers, how mobil
 
 Migration runs through both of the themes above, and I treat it as a subject in its own right.
 
-- **Migrants in the labour market.** How legal status shapes access to employers, earnings, and the ability to change jobs — and what happens when immigration policy shifts.
+- **Migrants in the labour market.** How legal status shapes access to employers, earnings, and the ability to change jobs, and what happens when immigration policy shifts.
 - **Displacement.** How climate stress and conflict interact to drive forced migration across borders, using cross-country panel data for the Southern African Development Community.
 
 The two sides matter together. Policy debates tend to treat displacement and labour migration as separate files, when the same environmental and economic pressures often sit behind both.

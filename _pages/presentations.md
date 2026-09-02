@@ -44,7 +44,7 @@ author_profile: true
     <div class="fact__when">2025</div>
     <div>
       <div class="fact__what">8th Lindau Nobel Meeting in Economic Sciences
-        <span class="fact__where">Lindau, Germany — selected participant</span>
+        <span class="fact__where">Lindau, Germany (selected participant)</span>
       </div>
       <p><a href="{{ '/nobel/conferences/lindau/' | relative_url }}">Read my notes from the meeting</a></p>
     </div>
