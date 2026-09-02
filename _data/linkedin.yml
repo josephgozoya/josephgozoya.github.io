@@ -1,0 +1,41 @@
+# ---------------------------------------------------------------------------
+#  Recent LinkedIn posts shown on the homepage
+# ---------------------------------------------------------------------------
+#
+#  HOW TO ADD A POST
+#
+#  1. Open the post on LinkedIn on a desktop browser.
+#  2. Click the "..." menu at the top right of the post.
+#  3. Choose "Embed this post". If that option is missing, the post is not
+#     Public - only public posts (globe icon) can be embedded.
+#  4. The code it gives you contains a src like:
+#
+#       https://www.linkedin.com/embed/feed/update/urn:li:share:7123456789012345678
+#                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#     Copy that urn.
+#
+#  5. Add an entry at the TOP of the "posts:" list below. Newest first.
+#
+#  Reposts work the same way. LinkedIn articles cannot be embedded - add those
+#  as a normal post under _posts/ instead.
+#
+#  Only the first few entries (see "limit") are shown on the homepage.
+# ---------------------------------------------------------------------------
+
+profile: "https://www.linkedin.com/in/josephgozoya/"
+
+# How many posts to display on the homepage.
+limit: 3
+
+# Height of each embed, in pixels. Raise it if a long post is cut off.
+height: 480
+
+posts: []
+  # - urn: "urn:li:share:7123456789012345678"
+  #   title: "Short description, used as the embed's accessible title"
+  #   date: 2026-09-01
+  #
+  # - urn: "urn:li:activity:7123456789012345678"
+  #   title: "Reposted: something worth keeping"
+  #   date: 2026-08-24
+  #   height: 560
