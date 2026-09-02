@@ -16,7 +16,7 @@ header:
 
 <p class="lede">I am an economist and PhD candidate at the University of Pretoria. My work asks how environmental pressure, the structure of employment, and the movement of people shape who gets access to good jobs in sub-Saharan Africa, and what policy can do about it.</p>
 
-The research is empirical and data-heavy. I work with large administrative records held by revenue authorities and statistical agencies, alongside household survey and geospatial data, to answer questions that surveys alone cannot reach.
+I work with large administrative records, alongside household and labour force survey and geospatial data.
 
 <div class="themes">
   <div class="theme">
@@ -44,7 +44,7 @@ The research is empirical and data-heavy. I work with large administrative recor
 
 ## Affiliations
 
-I am a PhD candidate in the Department of Economics at the **University of Pretoria**. I worked with **UNU-WIDER** on the **SA-TIED** programme for my research around administrative tax data. In 2026 I held a Visiting PhD Fellowship at UNU-WIDER in Helsinki.
+I am a PhD candidate in the Department of Economics at the **University of Pretoria**. I worked with **UNU-WIDER** on the **SA-TIED** programme and as a visiting PhD fellow for my research around administrative tax data.
 
 <div class="cta">
   <a href="/research/" class="btn btn--primary">Research</a>
