@@ -46,8 +46,6 @@ The research is empirical and data-heavy. I work with large administrative recor
 
 I am a PhD candidate in the Department of Economics at the **University of Pretoria**. I worked with **UNU-WIDER** on the **SA-TIED** programme for my research around administrative tax data. In 2026 I held a Visiting PhD Fellowship at UNU-WIDER in Helsinki.
 
-Before that I ran research training and consultations at the University of Pretoria Research Commons, and taught economics in Zimbabwe.
-
 <div class="cta">
   <a href="/research/" class="btn btn--primary">Research</a>
   <a href="/about/" class="btn btn--outline">About &amp; CV</a>
