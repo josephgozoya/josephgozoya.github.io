@@ -20,18 +20,24 @@ The research is empirical and data-heavy. I work with large administrative recor
 
 <div class="themes">
   <div class="theme">
-    <span class="theme__kicker">Theme 01</span>
-    <h3>Environmental economics</h3>
+    <div class="theme__head">
+      <span class="theme__kicker">Theme 01</span>
+      <h3>Environmental economics</h3>
+    </div>
     <p>How climate variability and energy disruption travel through an economy — into agricultural production, firm behaviour, and the security of people's work.</p>
   </div>
   <div class="theme">
-    <span class="theme__kicker">Theme 02</span>
-    <h3>Jobs and inequality</h3>
+    <div class="theme__head">
+      <span class="theme__kicker">Theme 02</span>
+      <h3>Jobs and inequality</h3>
+    </div>
     <p>Where earnings inequality actually comes from, how job quality is distributed across employers, and who is able to move up the ladder.</p>
   </div>
   <div class="theme">
-    <span class="theme__kicker">Theme 03</span>
-    <h3>Migration</h3>
+    <div class="theme__head">
+      <span class="theme__kicker">Theme 03</span>
+      <h3>Migration</h3>
+    </div>
     <p>How migration status shapes labour market outcomes, and how climate stress and conflict together push people to move.</p>
   </div>
 </div>
