@@ -52,4 +52,17 @@ I am a PhD candidate in the Department of Economics at the **University of Preto
   <a href="mailto:josephgozoya@gmail.com" class="btn btn--outline">Get in touch</a>
 </div>
 
+## Recent posts
+
+{% assign li = site.data.linkedin %}{% assign lim = li.limit | default: 3 %}{% if li.posts and li.posts != empty %}<div class="li-feed">
+{% for p in li.posts limit: lim %}  <figure class="li-post">
+    <iframe src="https://www.linkedin.com/embed/feed/update/{{ p.urn }}" height="{{ p.height | default: li.height | default: 480 }}" width="100%" frameborder="0" allowfullscreen loading="lazy" title="{{ p.title | default: 'LinkedIn post by Joseph Gozoya' | escape }}"></iframe>
+  </figure>
+{% endfor %}</div>
+{% else %}<p class="li-empty">Nothing pinned here yet. My latest posts and reposts are on LinkedIn.</p>
+{% endif %}
+<div class="cta">
+  <a href="{{ li.profile }}" class="btn btn--outline">See all posts on LinkedIn</a>
+</div>
+
 ## Writing
