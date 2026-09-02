@@ -1,16 +1,10 @@
 ---
 permalink: /work/
 title: "SA-TIED"
-author_profile: true
+sitemap: false
+author_profile: false
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-CCD8WD25BZ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-CCD8WD25BZ');
-</script>
+<meta http-equiv="refresh" content="0; URL='https://sa-tied.wider.unu.edu/data'">
 
-<meta http-equiv="refresh" content="0; URL='https://sa-tied.wider.unu.edu/data'" />
+Redirecting to [SA-TIED](https://sa-tied.wider.unu.edu/data), the research programme run by UNU-WIDER with South Africa's National Treasury.
