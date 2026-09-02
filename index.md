@@ -1,34 +1,51 @@
 ---
 layout: home
 title: "Joseph Gozoya"
+excerpt: "Economist working on environmental economics, jobs and inequality, and migration in sub-Saharan Africa."
 author_profile: true
 entries_layout: list
-pagination:
-  enabled: true
 header:
   overlay_image: /assets/images/image.png
-  overlay_filter: 0.5
+  overlay_filter: 0.55
   actions:
-    - label: "View Research"
+    - label: "Read the research"
+      url: "/research/"
+    - label: "About & CV"
       url: "/about/"
-    - label: "Download CV"
-      url: "https://drive.google.com/file/d/1-usu1GNkJpZRoTYnQOJKcp-fLh-WavZy/view"
 ---
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-CCD8WD25BZ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-CCD8WD25BZ');
-</script>
+<p class="lede">I am an economist and PhD candidate at the University of Pretoria. My work asks how environmental pressure, the structure of employment, and the movement of people shape who gets access to good jobs in sub-Saharan Africa — and what policy can do about it.</p>
 
-## Bridging Data & Policy for Economic Inclusion
+The research is empirical and data-heavy. I work with large administrative records held by revenue authorities and statistical agencies, alongside household survey and geospatial data, to answer questions that surveys alone cannot reach.
 
-I am an economist dedicated to addressing economic challenges through high-quality empirical research. My work leverages administrative big data to provide insights into development economics, specifically focusing on:
+<div class="themes">
+  <div class="theme">
+    <span class="theme__kicker">Theme 01</span>
+    <h3>Environmental economics</h3>
+    <p>How climate variability and energy disruption travel through an economy — into agricultural production, firm behaviour, and the security of people's work.</p>
+  </div>
+  <div class="theme">
+    <span class="theme__kicker">Theme 02</span>
+    <h3>Jobs and inequality</h3>
+    <p>Where earnings inequality actually comes from, how job quality is distributed across employers, and who is able to move up the ladder.</p>
+  </div>
+  <div class="theme">
+    <span class="theme__kicker">Theme 03</span>
+    <h3>Migration</h3>
+    <p>How migration status shapes labour market outcomes, and how climate stress and conflict together push people to move.</p>
+  </div>
+</div>
 
-* **Poverty & Inequality:** Understanding and designing data-driven strategies to reduce economic disparities.
-* **Labor Markets:** Investigating economic vulnerability and sectoral resilience, particularly in the context of climate change and energy disruptions.
-* **Big Data Analytics:** Managing and auditing millions of records within the **SA-TIED** administrative tax dataset to support evidence-based policy.
+## Where I work
 
----
+I am a PhD candidate in the Department of Economics at the **University of Pretoria**, and I work with **UNU-WIDER** on the **SA-TIED** programme — a research partnership with South Africa's National Treasury built around administrative tax data. In 2026 I held a Visiting PhD Fellowship at UNU-WIDER in Helsinki.
+
+Before that I ran research training and consultations at the University of Pretoria Research Commons, and taught economics in Zimbabwe.
+
+<div class="cta">
+  <a href="/research/" class="btn btn--primary">Research</a>
+  <a href="/about/" class="btn btn--outline">About &amp; CV</a>
+  <a href="mailto:josephgozoya@gmail.com" class="btn btn--outline">Get in touch</a>
+</div>
+
+## Writing
