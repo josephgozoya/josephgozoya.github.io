@@ -482,6 +482,39 @@ h1, h2, h3, h4, h5, h6,
   }
 }
 
+.li-feed {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 1.4em 0 1.2em;
+}
+
+.li-post {
+  margin: 0;
+  padding: 0;
+  border: 1px solid $rule;
+  border-radius: 14px;
+  overflow: hidden;
+  background: $wash;
+
+  iframe {
+    display: block;
+    width: 100%;
+    border: 0;
+    border-radius: 14px;
+  }
+}
+
+.li-empty {
+  margin: 1.4em 0 1.2em;
+  padding: 1.1rem 1.3rem;
+  border: 1px dashed #d3d8e0;
+  border-radius: 14px;
+  background: $wash;
+  color: $muted;
+  font-size: 0.95rem;
+}
+
 .cv-embed {
   border: 1px solid $rule;
   border-radius: 12px;
