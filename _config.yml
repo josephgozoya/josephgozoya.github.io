@@ -75,8 +75,8 @@ plugins:
 
 author:
   name   : "Joseph Gozoya"
-  avatar : "/assets/images/pofile.jpg" # profile image
-  bio    : "is a PhD Candidate in Economics at the University of Pretoria and currently a Research Assistant at the United Nations University World Institute for Development Economics Research (UNU-WIDER)."
+  avatar : "/assets/images/josephgozoya.jpg" # profile image
+  bio    : "is a PhD Candidate in Economics at the University of Pretoria."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
